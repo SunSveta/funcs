@@ -1,8 +1,8 @@
 
-def get_val(collectino, key, default = None):
+def get_val(collection, key, default = None):
     if key in list(collection.keys()):
-        print(collection[key])
+        return collection[key]
     else:
-        print(default)
+        return default
 
 
