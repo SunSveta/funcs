@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "stars"
+name = "funcs"
 version = "0.1.0"
 description = ""
 authors = ["yanochkina_sl <yanochkinasvetlana@mail.ru>"]
